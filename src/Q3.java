@@ -10,8 +10,9 @@ public class Q3 {
 
         }
         int sum = 0;
-        for (arr[i] % 3 && arr[i] % 5) ;
+       // for (arr[i] % 3 && arr[i] % 5) ;
         {
+
             sum = sum + arr[i];
         }
         System.out.println(sum);
